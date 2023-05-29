@@ -1,0 +1,10 @@
+aside.logo {
+    background-color: var(--bg-gold);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: Impact, sans-serif;
+    font-size: 35px;
+}
