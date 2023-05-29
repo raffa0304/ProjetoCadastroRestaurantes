@@ -1,0 +1,12 @@
+{
+  "restaurantes": [
+    {
+      "nome": "Nome teste",
+      "proprietario": "Rafael",
+      "tipo": "restaurante",
+      "contato": "(35) 99999-9999",
+      "descricaoHorario": "Seg à Sex: 10h às 18h,\nSab: 10h às 20h\nDom: Não abre",
+      "id": 2
+    }
+  ]
+}
